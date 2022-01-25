@@ -1,2 +1,2 @@
 <?php
-$flag="FLAG{Example}";
+$flag="towerofgod;
